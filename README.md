@@ -1,4 +1,4 @@
-# Tour Of Heroes App
+# Tour of Heroes App
 
 Este proyecto contiene las fuentes de la aplicación Tour Of Heroes, desarrollada con Angular 8 para el front.
 
